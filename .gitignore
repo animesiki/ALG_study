@@ -2,3 +2,7 @@
 .classpath
 .project
 /target
+/.metadata
+/.recommenders
+/bin
+.class
